@@ -183,3 +183,20 @@ footer {
   color: #999;
   margin-top: 2rem;
 }
+.design-headers{
+  display: flex;
+  justify-content: flex-start;
+}
+.logo{
+
+  justify-items: center;
+ 
+}
+.logo-self {
+height:200px;
+padding: 20px;
+}
+.poster-self{
+  height:350px;
+  padding:30px;
+}
