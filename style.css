@@ -195,17 +195,22 @@ footer {
 .logo-self {
 height:200px;
 padding: 20px;
-@media (max-width: 600px){
-height: 50px;
-padding: 20px;
 }
+@media (max-width: 600px){
+  .logo-self{
+height:250px;
+padding: 20px;
+  }
 }
 .poster-self{
   height:350px;
   padding:30px;
-  @media (max-width: 600px){
-height: 50px;
-padding: 20px;
+
 }
+@media (max-width: 600px){
+  .poster-self{
+height:250px;
+padding: 20px;
+  }
 }
 
