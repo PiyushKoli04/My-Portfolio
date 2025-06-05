@@ -196,7 +196,7 @@ footer {
 height:200px;
 padding: 20px;
 @media (max-width: 600px){
-height: 150px;
+height: 50px;
 padding: 20px;
 }
 }
@@ -204,7 +204,7 @@ padding: 20px;
   height:350px;
   padding:30px;
   @media (max-width: 600px){
-height: 200px;
+height: 50px;
 padding: 20px;
 }
 }
