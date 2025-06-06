@@ -205,12 +205,20 @@ padding: 20px;
 .poster-self{
   height:350px;
   padding:30px;
-
+}
+.poster-long{
+  height: 150px;
+  padding-bottom: 125px;
+  padding-left: 30px;
 }
 @media (max-width: 600px){
   .poster-self{
 height:250px;
 padding: 20px;
+  }
+  .poster-long{
+    height: 100px;
+    padding: 20px;
   }
 }
 
