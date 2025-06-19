@@ -188,6 +188,15 @@ padding: 20px;
   }
 }
 
+.sticker-self{
+  height: 200px;
+  width: 200px;
+  margin:10px;
+
+
+}
+
+
 .certificate1{
   display: flex;
   justify-content: start;
@@ -197,6 +206,7 @@ padding: 20px;
   width:300px;
   background-color:#113335;
   border-radius: 1.5rem;
+  margin-bottom: 10px;
 }
 .cert-found{
   border-radius: 10px;
